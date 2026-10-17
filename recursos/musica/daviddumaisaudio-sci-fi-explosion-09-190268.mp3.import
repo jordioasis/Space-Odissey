@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/daviddumaisaudio-sci-fi-explosion-09-190268.mp3-f73a01dd68da78ca76e5bbe4c8ad16f8.mp3str"
+
+[deps]
+
+source_file="res://recursos/musica/daviddumaisaudio-sci-fi-explosion-09-190268.mp3"
+dest_files=[ "res://.import/daviddumaisaudio-sci-fi-explosion-09-190268.mp3-f73a01dd68da78ca76e5bbe4c8ad16f8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
